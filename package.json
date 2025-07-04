@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "ng build",
+    "build": "npx ng build",
     "dev": "next dev",
     "lint": "next lint",
     "start": "next start",
-    "test": "ng test"
+    "test": "npx ng test"
   },
   "dependencies": {
     "@angular/animations": "latest",
